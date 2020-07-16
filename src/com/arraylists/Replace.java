@@ -11,6 +11,9 @@ public class Replace {
         list.add("not");
         list.add("to");
         list.add("be");
+        System.out.println("initial list = " + list);
+        replace(list, "be", "beep");
+        System.out.println("final list = " + list);
     }
 
     public static void replace(ArrayList<String> list, String target, String replacement){
