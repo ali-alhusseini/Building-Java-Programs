@@ -1,7 +1,7 @@
-# BuildingJavaPrograms
+# ☕ Building Java Programs 
 Java code snippets mostly learned from different sources and combined together with these "small" programs.
 
-## Topics
+## 🛑 Topics
 
 - **ArrayLists**
 
