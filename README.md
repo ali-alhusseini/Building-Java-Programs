@@ -15,4 +15,4 @@ Java code snippets mostly learned from different sources and combined together w
       A program that constructs a list of stop words and then 
       reads a file word by word, printing every word that is not 
       a stop word.      
-      > ⚠ **Warning**: This file uses the `speech.txt` file.
+      > ⚠ **Warning**: This file uses `speech.txt`.
