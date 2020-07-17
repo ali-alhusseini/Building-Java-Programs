@@ -24,7 +24,8 @@ public class StopWords {
         stopWords.add("to");
         stopWords.add("why");
 
-        Scanner file = new Scanner(new File("speech.txt"));
+        Scanner file = new Scanner(new File("files/speech.txt"));
+        System.out.println();
         while (file.hasNext()) {
             String next = file.next();
             if (!stopWords.contains(next.toLowerCase())) {
